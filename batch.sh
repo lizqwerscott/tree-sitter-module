@@ -63,6 +63,7 @@ languages=(
     'wgsl'
     'yaml'
     'zig'
+    'vue'
 )
 
 if [ -z "${JOBS:-}" ]

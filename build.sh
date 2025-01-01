@@ -160,6 +160,9 @@ case "${lang}" in
     "zig")
         org="maxxnino"
         ;;
+    "vue")
+        org="ikatyang"
+        ;;
 esac
 
 if [ -z "$branch" ]
